@@ -1,5 +1,3 @@
-<img align="center" src="https://tomclaessens.be/assets/images/20190316-Tom_Claessens-7257_5746.jpg">
-
 <h3 align="center">Hi there! 👋 I'm Tom Claessens</h3>
 <p align="center">
   <a href="https://www.tomclaessens.be">Website</a> - 
